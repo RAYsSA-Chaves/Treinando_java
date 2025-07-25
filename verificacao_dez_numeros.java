@@ -1,3 +1,5 @@
+//Verificar o maior e menor número e quantos são pares e ímpares entre dez números
+
 import java.util.Scanner;
 
 public class ex06 {
